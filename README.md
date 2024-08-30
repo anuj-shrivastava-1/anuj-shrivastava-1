@@ -2,7 +2,24 @@
 - 👀 I’m interested in Software Development and Electronics programing
 - 🌱 I’m currently studying in MANIT INDIA
 
-<!---
-anuj-shrivastava-1/anuj-shrivastava-1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 🚀 Skill Set
+
+### Android Development
+- **Proficient in Java and XML**
+- **Firebase Implementation**
+- **Android TV Development**
+
+### Web Development
+- **Familiar with JavaScript Frameworks**
+- **Firebase Implementation**
+- **WebRTC Implementation**
+- **Web Scraping**
+
+### 🛠 Software Proficiency
+- **Proficient in Android Studio**
+- **Experienced with VS Code**
+- **Comfortable with Linux and Windows Systems**
+
+---
+
+Let's build something amazing together! 🌟
